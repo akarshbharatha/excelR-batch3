@@ -11,7 +11,7 @@ class LinkedHashSetDemo {
             lhs.add(x);
         }
         System.out.println(lhs);
-        System.out.print("Enter an integer to remove: ");
+        System.out.print("Enter an integer to remove : ");
         int a = sc.nextInt();
         lhs.remove(a);
         int sum = 0;
